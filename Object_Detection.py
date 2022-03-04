@@ -27,7 +27,7 @@ with open(classFile,'rt') as f:
 #print(classNames)
 
 ##Configuring both SSD model and weights (assigning)
-configPath = 'ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
+configPath = 'ssd_mobilenet_v3_large_coco_2022_03_02.pbtxt'
 weightsPath = 'frozen_inference_graph.pb'
 
 ##dnn-Inbuilt method of OpenCV
