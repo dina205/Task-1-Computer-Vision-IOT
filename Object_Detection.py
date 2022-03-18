@@ -1,6 +1,6 @@
 # GRIP Internship
 # TASK-1 : Implement an object detector which identifies the classes of the objects in a real time video.
-# Name : Aarohi Verma
+# Name : DINAKARAN
 # Domain : Computer Vision and IOT
 
 
